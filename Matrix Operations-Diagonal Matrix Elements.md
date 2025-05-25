@@ -41,7 +41,8 @@ for i in range(rows):
 ```
 
 ### Output:
-![Uploading 447322035-f61721a1-3aab-4308-9599-e20ffb5eb2c0.png…]()
+![447322035-f61721a1-3aab-4308-9599-e20ffb5eb2c0](https://github.com/user-attachments/assets/f9fcbc65-2b44-4c92-a795-37d45d398a4f)
+
 
 
 ## Result
